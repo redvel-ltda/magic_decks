@@ -38,6 +38,9 @@ gem 'mtgextractor', :git => 'git://github.com/JAndritsch/mtgextractor.git'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
+  
+  # Mejora la impresion en consola
+  gem 'awesome_print'
 end
 
 group :development do
