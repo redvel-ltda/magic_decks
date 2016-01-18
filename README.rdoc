@@ -1,3 +1,0 @@
-== README
-
-Nuevo proyecto de prueba para Redvel
